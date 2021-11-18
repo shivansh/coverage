@@ -8,5 +8,6 @@ import (
 
 func qux() {
 	b.Bar()
+	b.Baz()
 	fmt.Println("qux")
 }
