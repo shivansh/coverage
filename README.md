@@ -1,5 +1,1 @@
-```
-$ go test -coverpkg=./... ./...
-ok      example.com/a   (cached)        coverage: 100.0% of statements in ./...
-?       example.com/b   [no test files]
-```
+Demo code for https://shivansh.github.io/posts/2021-11-18-Code-coverage-in-Go.
